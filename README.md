@@ -21,8 +21,6 @@
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bibliografía)
 
-[...]
-
 <br/>
 
 ## Introducción
